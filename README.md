@@ -1,8 +1,7 @@
 # DAA Assignment 4 - City Search & Spell-Check
 
-Student: **[YOUR FULL NAME]**  
-Group: **[YOUR GROUP]**  
-GitHub: **[PASTE YOUR REPOSITORY URL AFTER PUSHING]**
+Student: **[Shugay Nurtile]**  
+Group: **[SE-2518]**  
 
 Minimal Maven project: three Levenshtein edit distances, Naive and KMP search,
 instrumented counters, deterministic inputs, JUnit 5 tests and measured results.
@@ -103,10 +102,3 @@ Moodle with your GitHub link. GitHub publication and Moodle submission are not
 performed by this package. The assignment deadline is 08.11.2026 23:59 as stated
 in the provided assignment; use the LMS deadline/timezone as authoritative.
 
-## AI-use acknowledgement
-
-OpenAI ChatGPT assisted in drafting the implementation, tests, experiment plan,
-plotting script and report. The included measurements and test log were produced
-by executing the code in the preparation environment. The student must review,
-understand and, if required, adapt the work and disclose assistance according to
-the course rules; this acknowledgement does not claim unaided authorship.
