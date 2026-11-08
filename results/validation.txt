@@ -1,0 +1,5 @@
+JUnit 5: 7 methods passed, 0 failures, 0 errors.
+CSV: 120 rows, 40 cases, 3 runs per case.
+Each algorithm: 4 sizes, largest >= 4 * smallest, 2 input types.
+Second complete execution reproduced every non-time CSV field.
+All recorded times are positive.
